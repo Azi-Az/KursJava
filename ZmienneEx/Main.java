@@ -14,6 +14,11 @@ public class Main {
         System.out.println("Twój wzrost to: " + height + "m:");
         System.out.println("Twoje bmi to: " + bmi);
 
+        int number = 20;
+
+        System.out.println(number / 2);
+        System.out.println(number % 2);
+
     }
 
 
